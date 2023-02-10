@@ -119,9 +119,9 @@ Data Protection & Disaster Recovery:
 
 https://go.aws/3wv8cyx
 
- ### A few more digital courses that you can take to achieve globally recognised badges also free: 
+ ### A few more free courses that you can take to achieve badges: 
  
-AWS Serverless training. Great course that teaches how to architect, deploy and secure event-driven solutions. 
+AWS Serverless training. Learn how to architect, deploy and secure event-driven solutions. 
 
 Sign up here: https://go.aws/3UZpFs0 
  
@@ -129,6 +129,27 @@ Storage training. Dive deep into AWS storage offerings: Object, File, Block and 
 
 Register here: https://go.aws/3wv8cyx 
  
-AWS Cloud Practitioner Quest. Great place for beginners. It's a game based learning with 12 hands-on exercises.
+AWS Cloud Practitioner Quest. Beginners game-based learning with 12 hands-on exercises.
 
 Register here: https://aws.amazon.com/training/digital/aws-cloud-quest/ 
+
+## Don’t know how to get started?
+
+Visit AWS cloud career center and learn about different career paths in the cloud: 
+
+https://training.resources.awscloud.com/cloud-career-center
+
+
+Take a quiz and identify which cloud role is right for you: 
+
+https://amazonmr.au1.qualtrics.com/jfe/form/SV_bl2UyYbqkVfeScm
+
+
+You can start learning Cloud, Security, DevOps with over 500+ free courses: 
+
+https://skillbuilder.aws
+
+
+If you are interested in getting hands-on with AI check out the free ML environment: 
+
+https://studiolab.sagemaker.aws/

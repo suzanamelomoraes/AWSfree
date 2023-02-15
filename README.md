@@ -1,5 +1,9 @@
 # Free AWS training courses
 
+## AWS CloudUp for Hāpori Wāhine - AWS Cloud training for women
+
+https://awscloudup-haporiwahine.splashthat.com/
+ 
 ## Free AWSome courses on Udemy:
 
 Starting your Career with Amazon AWS

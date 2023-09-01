@@ -19,12 +19,6 @@ Hosts free training events, both online and in-person
 https://aws.amazon.com/training/
 
 https://www.aws.training/
-
-## Learning AWS playing games
-
-AWS Cloud Practitioner Quest. Beginners game-based learning with 12 hands-on exercises.
-
-Register here: https://aws.amazon.com/training/digital/aws-cloud-quest/ 
  
 ## Free AWSome courses on Udemy:
 
@@ -186,4 +180,10 @@ https://dev.to/suzanamelomoraes/how-i-prepared-myself-for-the-aws-cloud-practiti
 AWS Power Hour: Cloud Practitioner
 
 https://pages.awscloud.com/global-traincert-twitch-power-hour-cloud-practitioner.html
+
+## Learning AWS playing games
+
+AWS Cloud Practitioner Quest. Beginners game-based learning with 12 hands-on exercises.
+
+Register here: https://aws.amazon.com/training/digital/aws-cloud-quest/
 

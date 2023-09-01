@@ -2,6 +2,8 @@
 
 ## AWS CloudUp for Hāpori Wāhine - AWS Cloud training for women in New Zealand
 
+FREE 4 week, flexible virtual style training program for women based in New Zealand!
+
 https://awscloudup-haporiwahine.splashthat.com/
 
 ## AWS re/Start skills development and training programme

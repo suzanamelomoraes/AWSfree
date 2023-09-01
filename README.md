@@ -1,8 +1,28 @@
 # Free AWS training courses
 
-## AWS CloudUp for Hāpori Wāhine - AWS Cloud training for women
+## AWS CloudUp for Hāpori Wāhine - AWS Cloud training for women in New Zealand
 
 https://awscloudup-haporiwahine.splashthat.com/
+
+## AWS re/Start skills development and training programme
+
+AWS re/Start is a - 12-week, full-time - global programme delivered in Aotearoa, New Zealand, in collaboration with Te Pūkenga
+
+https://www.xn--tepkenga-szb.ac.nz/aws-restart/
+
+## AWS Training and Certification
+
+Hosts free training events, both online and in-person
+
+https://aws.amazon.com/training/
+
+https://www.aws.training/
+
+## Learning AWS playing games
+
+AWS Cloud Practitioner Quest. Beginners game-based learning with 12 hands-on exercises.
+
+Register here: https://aws.amazon.com/training/digital/aws-cloud-quest/ 
  
 ## Free AWSome courses on Udemy:
 
@@ -132,14 +152,10 @@ Sign up here: https://go.aws/3UZpFs0
 Storage training. Dive deep into AWS storage offerings: Object, File, Block and how to architect hybrid solutions. 
 
 Register here: https://go.aws/3wv8cyx 
- 
-AWS Cloud Practitioner Quest. Beginners game-based learning with 12 hands-on exercises.
-
-Register here: https://aws.amazon.com/training/digital/aws-cloud-quest/ 
 
 ## Don’t know how to get started?
 
-Visit AWS cloud career center and learn about different career paths in the cloud: 
+Visit the AWS cloud career center and learn about different career paths in the cloud: 
 
 https://training.resources.awscloud.com/cloud-career-center
 
@@ -157,3 +173,15 @@ https://skillbuilder.aws
 If you are interested in getting hands-on with AI check out the free ML environment: 
 
 https://studiolab.sagemaker.aws/
+
+
+## AWS Cloud Practitioner Certificate
+
+Check out my article on Dev.to:
+
+https://dev.to/suzanamelomoraes/how-i-prepared-myself-for-the-aws-cloud-practitioner-certificate-5a1f
+
+AWS Power Hour: Cloud Practitioner
+
+https://pages.awscloud.com/global-traincert-twitch-power-hour-cloud-practitioner.html
+

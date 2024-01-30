@@ -107,6 +107,10 @@ https://www.edx.org/course/getting-started-with-data-analytics-on-aws
 
 ## AWS Free training and learning badges
 
+Cloud practitioner:
+
+https://aws.amazon.com/training/learn-about/cloud-practitioner/
+
 Architecting: 
 
 https://bit.ly/architect23

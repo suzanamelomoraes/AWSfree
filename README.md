@@ -118,6 +118,7 @@ https://explore.skillbuilder.aws/learn/course/external/view/elearning/108/aws-we
 AWS for Games: 
 
 https://go.aws/3l6fYf7
+
 https://explore.skillbuilder.aws/learn/public/learning_plan/view/1570/aws-for-games-learning-plan-cloud-game-development
 
 Serverless: 

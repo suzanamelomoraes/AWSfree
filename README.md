@@ -1,5 +1,10 @@
 # Free AWS training courses
 
+## Why learn about Cloud Computing and AWS?
+
+Check my article "Cloud Computing: What is and why should tech beginners learn it?"
+
+https://dev.to/aws-builders/cloud-computing-why-should-tech-beginners-learn-it-2khe
 
 ## AWS re/Start skills development and training programme
 
@@ -10,6 +15,8 @@ https://www.xn--tepkenga-szb.ac.nz/aws-restart/
 ## AWS Training and Certification
 
 Hosts free training events, both online and in-person
+
+https://explore.skillbuilder.aws/learn
 
 https://aws.amazon.com/training/
 

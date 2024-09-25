@@ -6,11 +6,73 @@ Check my article "Cloud Computing: What is and why should tech beginners learn i
 
 https://dev.to/aws-builders/cloud-computing-why-should-tech-beginners-learn-it-2khe
 
-## AWS re/Start skills development and training programme
 
-AWS re/Start is a - 12-week, full-time - global programme delivered in Aotearoa, New Zealand, in collaboration with Te Pūkenga
+## Build your foundation:
 
-https://www.xn--tepkenga-szb.ac.nz/aws-restart/
+Cloud Essentials - Knowledge Badge Readiness Path:
+
+https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path
+
+
+Cloud practitioner:
+
+https://aws.amazon.com/training/learn-about/cloud-practitioner/
+
+
+## Learning AWS playing games
+
+Start with the AWS Cloud Practitioner Quest. A beginner's game-based learning with 12 hands-on exercises. A 3D role-playing game to help you build practical AWS Cloud skills
+
+Register here: https://aws.amazon.com/training/digital/aws-cloud-quest/
+
+
+## AWS Cloud Practitioner Certificate
+
+Looking for tips on how to prepare for the exam? Check out my article on Dev.to:
+
+https://dev.to/suzanamelomoraes/how-i-prepared-myself-for-the-aws-cloud-practitioner-certificate-5a1f
+
+AWS Power Hour: Cloud Practitioner
+
+https://pages.awscloud.com/global-traincert-twitch-power-hour-cloud-practitioner.html
+
+
+## AWS Free training and learning badges
+
+Architecting: 
+
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/108/aws-well-architected-foundations
+
+AWS for Games: 
+
+https://go.aws/3l6fYf7
+
+https://explore.skillbuilder.aws/learn/public/learning_plan/view/1570/aws-for-games-learning-plan-cloud-game-development
+
+Serverless: 
+
+https://go.aws/3UZpFs0
+
+Object Storage: 
+
+https://go.aws/3wv8cyx
+
+Block Storage: 
+
+https://go.aws/3wv8cyx
+
+File Storage: 
+
+https://go.aws/3wv8cyx
+
+Storage Data Migration: 
+
+https://go.aws/3wv8cyx
+
+Data Protection & Disaster Recovery: 
+
+https://go.aws/3wv8cyx
+
 
 ## AWS Training and Certification
 
@@ -22,6 +84,7 @@ https://aws.amazon.com/training/
 
 https://www.aws.training/
  
+
 ## Free AWSome courses on Udemy:
 
 Starting your Career with Amazon AWS
@@ -84,6 +147,7 @@ AWS + Serverless
 
 https://www.udemy.com/course/aws-serverless-lambda/
 
+
 ## Free AWSome training courses on EDX
 
 AWS Cloud Practitioner Essentials
@@ -107,59 +171,21 @@ Getting Started with Data Analytics on AWS
 https://www.edx.org/course/getting-started-with-data-analytics-on-aws
 
 
-## AWS Free training and learning badges
-
-Cloud practitioner:
-
-https://aws.amazon.com/training/learn-about/cloud-practitioner/
-
-Architecting: 
-
-https://explore.skillbuilder.aws/learn/course/external/view/elearning/108/aws-well-architected-foundations
-
-AWS for Games: 
-
-https://go.aws/3l6fYf7
-
-https://explore.skillbuilder.aws/learn/public/learning_plan/view/1570/aws-for-games-learning-plan-cloud-game-development
-
-Serverless: 
-
-https://go.aws/3UZpFs0
-
-Object Storage: 
-
-https://go.aws/3wv8cyx
-
-Block Storage: 
-
-https://go.aws/3wv8cyx
-
-File Storage: 
-
-https://go.aws/3wv8cyx
-
-Storage Data Migration: 
-
-https://go.aws/3wv8cyx
-
-Data Protection & Disaster Recovery: 
-
-https://go.aws/3wv8cyx
 
  ### A few more free courses that you can take to achieve badges: 
  
-AWS Serverless training. Learn how to architect, deploy and secure event-driven solutions. 
+AWS Serverless training. Learn how to architect, deploy, and secure event-driven solutions. 
 
 Sign up here: https://go.aws/3UZpFs0 
  
-Storage training. Dive deep into AWS storage offerings: Object, File, Block and how to architect hybrid solutions. 
+Storage training. Dive deep into AWS storage offerings: Object, File, Block, and how to architect hybrid solutions. 
 
 Register here: https://go.aws/3wv8cyx 
 
-## Don’t know how to get started?
 
-Visit the AWS cloud career center and learn about different career paths in the cloud: 
+## Don’t know how to get started? Find your career path!
+
+Visit the AWS Cloud career center and learn about different career paths in the cloud: 
 
 https://training.resources.awscloud.com/cloud-career-center
 
@@ -179,19 +205,12 @@ If you are interested in getting hands-on with AI check out the free ML environm
 https://studiolab.sagemaker.aws/
 
 
-## AWS Cloud Practitioner Certificate
+## AWS re/Start skills development and training program
 
-Check out my article on Dev.to:
+AWS re/Start is a - 12-week, full-time - global program delivered in many countries. Find your country here:
 
-https://dev.to/suzanamelomoraes/how-i-prepared-myself-for-the-aws-cloud-practitioner-certificate-5a1f
+https://aws.amazon.com/training/restart/
 
-AWS Power Hour: Cloud Practitioner
+In Aotearoa, New Zealand, AWS re/Start is delivered in collaboration with Te Pūkenga
 
-https://pages.awscloud.com/global-traincert-twitch-power-hour-cloud-practitioner.html
-
-## Learning AWS playing games
-
-AWS Cloud Practitioner Quest. Beginners game-based learning with 12 hands-on exercises.
-
-Register here: https://aws.amazon.com/training/digital/aws-cloud-quest/
-
+https://www.xn--tepkenga-szb.ac.nz/aws-restart/

@@ -37,7 +37,14 @@ AWS Power Hour: Cloud Practitioner
 https://pages.awscloud.com/global-traincert-twitch-power-hour-cloud-practitioner.html
 
 
-## AWS Free training and learning badges
+## Now it's time to build projects
+
+Tech with Lucy - 5 AWS Cloud Projects to Get You Hired in 2024 (For Beginners)
+
+https://www.youtube.com/watch?v=akeSJBEWr3w
+
+
+## More AWS Free training and learning badges
 
 Architecting: 
 

@@ -2,17 +2,27 @@
 
 ## Why learn about Cloud Computing and AWS?
 
-Check my article "Cloud Computing: What is and why should tech beginners learn it?"
+If you're in the same boat, an absolute beginner like I was when I first started, I strongly recommend taking a quick detour to this article first: "Cloud Computing: What it is and why should tech beginners learn it??"
 
 https://dev.to/aws-builders/cloud-computing-why-should-tech-beginners-learn-it-2khe
 
+### Related articles:
 
-## Build your foundation:
+How to get started with AWS (for absolute beginners)
+
+https://dev.to/aws-builders/how-to-get-started-with-aws-for-absolute-beginners-3m7d
+
+How I prepared myself for the AWS Cloud Practitioner Certificate
+
+https://dev.to/suzanamelo/how-i-prepared-myself-for-the-aws-cloud-practitioner-certificate-5a1f
+
+## TRAINING COURSES:
+
+## Fundamentals:
 
 Cloud Essentials - Knowledge Badge Readiness Path:
 
 https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path
-
 
 Cloud practitioner:
 
@@ -28,16 +38,12 @@ Register here: https://aws.amazon.com/training/digital/aws-cloud-quest/
 
 ## AWS Cloud Practitioner Certificate
 
-Looking for tips on how to prepare for the exam? Check out my article on Dev.to:
-
-https://dev.to/suzanamelomoraes/how-i-prepared-myself-for-the-aws-cloud-practitioner-certificate-5a1f
-
 AWS Power Hour: Cloud Practitioner
 
 https://pages.awscloud.com/global-traincert-twitch-power-hour-cloud-practitioner.html
 
 
-## Now it's time to build projects
+## Building projects
 
 Tech with Lucy - 5 AWS Cloud Projects to Get You Hired in 2024 (For Beginners)
 

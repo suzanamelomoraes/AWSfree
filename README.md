@@ -2,7 +2,9 @@
 
 ## Why learn about Cloud Computing and AWS?
 
-If you're in the same boat, an absolute beginner like I was when I first started, I strongly recommend taking a quick detour to this article first: Cloud Computing: What it is and why should tech beginners learn it?
+If you're in the same boat, an absolute beginner like I was when I first started, I strongly recommend taking a quick detour to this article first: 
+
+Cloud Computing: What it is and why should tech beginners learn it?
 
 https://dev.to/aws-builders/cloud-computing-why-should-tech-beginners-learn-it-2khe
 

@@ -45,13 +45,6 @@ AWS Power Hour: Cloud Practitioner
 https://pages.awscloud.com/global-traincert-twitch-power-hour-cloud-practitioner.html
 
 
-## Building projects
-
-Tech with Lucy - 5 AWS Cloud Projects to Get You Hired in 2024 (For Beginners)
-
-https://www.youtube.com/watch?v=akeSJBEWr3w
-
-
 ## More AWS Free training and learning badges
 
 Architecting: 
@@ -229,3 +222,30 @@ https://aws.amazon.com/training/restart/
 In Aotearoa, New Zealand, AWS re/Start is delivered in collaboration with Te Pūkenga
 
 https://www.xn--tepkenga-szb.ac.nz/aws-restart/
+
+
+## Building projects
+
+Tech with Lucy - 5 AWS Cloud Projects to Get You Hired in 2025 (For Beginners)
+
+https://www.youtube.com/watch?v=akeSJBEWr3w
+
+The Best Cloud Projects To Get Hired For Beginners
+
+https://www.youtube.com/watch?v=uZOK9RC7t00
+
+The Best AWS Cloud Projects To Get You Hired FAST (For Beginners)
+
+https://www.youtube.com/watch?v=F2eBGsReQP0
+
+Top 10 Cloud Computing Projects For Beginners In 2024 | Cloud Computing Project Ideas | Simplilearn
+
+https://www.youtube.com/watch?v=V8q9JWskRt0
+
+AWS Project: How to Create a Static Website for Free Using Amazon S3, Step by Step
+
+https://www.youtube.com/watch?v=H83xYoC3z4A
+
+AWS Portfolio Project: Build an End-to-End Web Application with 7 Services | Step-by-Step Tutorial
+
+https://www.youtube.com/watch?v=zuKu0VFiwas&t=14s

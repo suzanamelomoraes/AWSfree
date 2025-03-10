@@ -246,6 +246,6 @@ AWS Project: How to Create a Static Website for Free Using Amazon S3, Step by St
 
 https://www.youtube.com/watch?v=H83xYoC3z4A
 
-AWS Portfolio Project: Build an End-to-End Web Application with 7 Services | Step-by-Step Tutorial
+AWS Project - Build a Full End-to-End Web App with 7 Services | Step-by-Step Tutorial
 
-https://www.youtube.com/watch?v=zuKu0VFiwas&t=14s
+https://www.youtube.com/watch?v=K6v6t5z6AsU&t=0s
